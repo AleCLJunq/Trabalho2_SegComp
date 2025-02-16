@@ -132,5 +132,5 @@ O cliente fará uma requisição HTTPS para o servidor, validando o certificado 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/license/mit).
 
